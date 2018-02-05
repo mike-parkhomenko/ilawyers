@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1436.6 0 2054.6 1091.117">
+  <defs><style>.cls-1 {fill: #fff;}</style></defs>
+  <g id="all_elements" transform="translate(-1403)">
+    <g id="squares">
+      <path id="square_10" class="cls-1" d="M269.4-.3H677.6L598.2,144H-9Z" transform="translate(108 936)"/>
+      <path id="square_17" class="cls-1" d="M382.1-.4-31.4-.3,87.6,144H700Z" transform="translate(1227.4 936)"/>
+      <path id="square_9" class="cls-1" d="M2.3,0H227.7L201.3,48l-290.4-.1Z" transform="translate(632 801)"/>
+      <path id="square_5" class="cls-1" d="M75.7,0h185L203.4,30H-21.5Z" transform="translate(431 771)"/>
+      <path id="square_6" class="cls-1" d="M95.7-.1,232.3,0,203.7,15l-158.5.5Z" transform="translate(528 735)"/>
+      <path id="square_4" class="cls-1" d="M323.2,0H612.3L446.9,86.7H35.8Z" transform="translate(-69.4 849)"/>
+      <path id="square_3" class="cls-1" d="M395.5,0H612.9L457.2,48H177.4Z" transform="translate(-203.4 801)"/>
+      <path id="square_2" class="cls-1" d="M373.8-.3,524.6,0,458.1,20.5l-178.5-.1Z" transform="translate(48.6 750.5)"/>
+      <path id="square_1" class="cls-1" d="M372-.2H491.3L459.1,9.7,327.5,9.6Z" transform="translate(164.6 725.2)"/>
+      <path id="square_8" class="cls-1" d="M58.6,9H214.8L203.2,30H18.7Z" transform="translate(673 741)"/>
+      <path id="square_7" class="cls-1" d="M86.3,9.1,208.6,9,203,19.1H67.3Z" transform="translate(693 715.9)"/>
+      <path id="square_11" class="cls-1" d="M1.3,0H292.5L364,86.7H-46.4Z" transform="translate(832 849)"/>
+      <path id="square_18" class="cls-1" d="M-238.7-.2H52.4L364,87H-46.8Z" transform="translate(1657 849)"/>
+      <path id="square_19" class="cls-1" d="M-113,57H71.7L179.3,87h-226Z" transform="translate(1360 714)"/>
+      <path id="square_23" class="cls-1" d="M-214,39H-18.4L222.3,87l-265.6-.2Z" transform="translate(1753 762)"/>
+      <path id="square_21" class="cls-1" d="M-81.9,77H18.3L65.1,87H-46.1Z" transform="translate(1349 648)"/>
+      <path id="square_22" class="cls-1" d="M-123.4,77.4H7.4l103.8,21H-48.3Z" transform="translate(1480 672.6)"/>
+      <path id="square_20" class="cls-1" d="M-79.9,72H54.9l53.9,15H-46.7Z" transform="translate(1248 663)"/>
+      <path id="square_12" class="cls-1" d="M44.2-.2h184l24.7,30H27.7Z" transform="translate(832 771.2)"/>
+      <path id="square_15" class="cls-1" d="M9.8,0H168.1l46.1,21H27.2Z" transform="translate(1033 750)"/>
+      <path id="square_14" class="cls-1" d="M18.1.1,141.9.2l22.2,10H26.4Z" transform="translate(1004 724.8)"/>
+      <path id="square_13" class="cls-1" d="M64,0H198.4l12.4,15H55.7Z" transform="translate(832 735)"/>
+      <path id="square_16" class="cls-1" d="M125,0H-103.5l39.7,48H230.7Z" transform="translate(1188.3 801)"/>
+    </g>
+    <g id="line-up-to-down">
+      <rect id="line__1" data-name="line _1" class="cls-1" width="1" height="725" rx="0.5" transform="translate(537)"/>
+      <rect id="line__2" data-name="line _2" class="cls-1" width="1" height="725" rx="0.5" transform="translate(655)"/>
+      <rect id="line__3" data-name="line _3" class="cls-1" width="1" height="725" rx="0.5" transform="translate(779)"/>
+      <rect id="line__4" data-name="line _4" class="cls-1" width="1" height="725" rx="0.5" transform="translate(901)"/>
+      <rect id="line__5" data-name="line _5" class="cls-1" width="1" height="725" rx="0.5" transform="translate(1022)"/>
+      <rect id="line__6" data-name="line _6" class="cls-1" width="1" height="725" rx="0.5" transform="translate(1145)"/>
+      <rect id="line__7" data-name="line _7" class="cls-1" width="1" height="725" rx="0.5" transform="translate(1267)"/>
+      <rect id="line__8" data-name="line _8" class="cls-1" width="1" height="725" rx="0.5" transform="translate(1367)"/>
+    </g>
+    <g id="line-vertical">
+      <path id="line__1-2" data-name="line _1" class="cls-1" d="M-.028-.626a.5.5,0,0,1,.5.5L-4.1,550.894a.5.5,0,0,1-.5.5.5.5,0,0,1-.5-.5L-.528-.126A.5.5,0,0,1-.028-.626Z" transform="translate(537.597 724.468) rotate(77)"/>
+      <path id="line__2-2" data-name="line _2" class="cls-1" d="M-.028-.626a.5.5,0,0,1,.5.5L49.519,685.4a.5.5,0,1,1-1,0L-.528-.126A.5.5,0,0,1-.028-.626Z" transform="translate(655.597 724.468) rotate(77)"/>
+      <path id="line__3-2" data-name="line _3" class="cls-1" d="M.5,0A.5.5,0,0,1,1,.5L-3.981,768.182a.5.5,0,0,1-.5.5.5.5,0,0,1-.5-.5L0,.5A.5.5,0,0,1,.5,0Z" transform="translate(779.334 723.875) rotate(62)"/>
+      <path id="line__4-2" data-name="line _4" class="cls-1" d="M.668.119a.5.5,0,0,1,.5.5L-18.9,407.8a.5.5,0,0,1-.5.5.5.5,0,0,1-.5-.5L.168.619A.5.5,0,0,1,.668.119Z" transform="translate(901.022 723.631) rotate(26)"/>
+      <path id="line__5-2" data-name="line _5" class="cls-1" d="M.5,0A.5.5,0,0,1,1,.5L-2.961,464.2a.5.5,0,0,1-.5.5.5.5,0,0,1-.5-.5L0,.5A.5.5,0,0,1,.5,0Z" transform="matrix(0.766, -0.643, 0.643, 0.766, 1021.749, 724.896)"/>
+      <path id="line__6-2" data-name="line _6" class="cls-1" d="M.5,0A.5.5,0,0,1,1,.5L-6.361,856.6a.5.5,0,0,1-.5.5.5.5,0,0,1-.5-.5L0,.5A.5.5,0,0,1,.5,0Z" transform="translate(1144.795 724.72) rotate(-66)"/>
+      <path id="line__7-2" data-name="line _7" class="cls-1" d="M.5,0A.5.5,0,0,1,1,.5L-7.549,700.238a.5.5,0,0,1-.5.5.5.5,0,0,1-.5-.5L0,.5A.5.5,0,0,1,.5,0Z" transform="translate(1267.223 725.161) rotate(-75)"/>
+      <path id="line__8-2" data-name="line _8" class="cls-1" d="M.5,0A.5.5,0,0,1,1,.5L-5.693,569.693a.5.5,0,0,1-.5.5.5.5,0,0,1-.5-.5L0,.5A.5.5,0,0,1,.5,0Z" transform="translate(1366.565 724.823) rotate(-79)"/>
+    </g>
+    <g id="line-horizontal">
+      <rect id="line__7-3" data-name="line _7" class="cls-1" width="1920" height="1" rx="0.5" transform="translate(0 935)"/>
+      <rect id="line__6-3" data-name="line _6" class="cls-1" width="1921" height="1" rx="0.5" transform="translate(-1 848)"/>
+      <rect id="line__5-3" data-name="line _5" class="cls-1" width="1540" height="1" rx="0.5" transform="translate(195 800)"/>
+      <rect id="line__4-3" data-name="line _4" class="cls-1" width="1260" height="1" rx="0.5" transform="translate(330 770)"/>
+      <rect id="line__3-3" data-name="line _3" class="cls-1" width="1073" height="1" rx="0.5" transform="translate(420 750)"/>
+      <rect id="line__2-3" data-name="line _2" class="cls-1" width="924" height="1" rx="0.5" transform="translate(492 734)"/>
+      <rect id="line__1-3" data-name="line _1" class="cls-1" width="831" height="1" rx="0.5" transform="translate(537 724)"/>
+    </g>
+  </g>
+</svg>
